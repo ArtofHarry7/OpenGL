@@ -1,2 +1,2 @@
 # Maze
-	./maze.sh
+> ./maze.sh
